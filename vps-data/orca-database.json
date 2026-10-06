@@ -1,0 +1,39 @@
+{
+  "branches": [
+    {
+      "id": "br_dam01",
+      "code": "DAM-01",
+      "name": "فرع دمشق المركزي",
+      "type": "main_hub",
+      "governorate": "دمشق",
+      "commissionRateShipping": 10,
+      "commissionRateTransfers": 1,
+      "boxSypBalance": 0,
+      "boxUsdBalance": 0,
+      "address": "المركز اللوجستي - دمشق",
+      "phone": "",
+      "managerName": "سليمان",
+      "isActive": true,
+      "createdAt": "2026-10-05T11:52:32.885Z",
+      "updatedAt": "2026-10-05T11:52:32.885Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "usr_سليمان",
+      "name": "سليمان",
+      "username": "سليمان",
+      "password": "111222000",
+      "role": "super_admin",
+      "branchId": "",
+      "canSwitchBranches": true,
+      "allowedBranchIds": [
+        "br_dam01"
+      ],
+      "phone": "",
+      "isActive": true,
+      "createdAt": "2026-10-05T11:52:32.885Z",
+      "updatedAt": "2026-10-05T11:52:32.885Z"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Remix تحضير تختيم تطبيق أوركا",
+  "description": "منظومة سحابية متقدمة لإدارة فروع ومستودعات شركة أوركا للشحن البري والخدمات اللوجستية في الجمهورية العربية السورية مع إدارة الصناديق الثنائية (USD/SYP) ومصمم المنافيست.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

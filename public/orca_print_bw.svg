@@ -1,0 +1,15 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1024 1024' width='1024' height='1024'>
+  <rect width='1024' height='1024' fill='#FFFFFF'/>
+  <g transform='translate(132, 40) scale(0.95)'>
+    <!-- 1. Upper Head & Dorsal -->
+    <path d='M 175 225 C 195 135, 290 65, 410 70 C 515 75, 595 115, 620 165 C 595 140, 545 130, 480 132 C 360 136, 265 185, 220 240 C 310 215, 435 222, 515 285 C 565 320, 595 372, 610 435 C 585 360, 530 305, 465 268 C 395 230, 305 222, 240 245 C 205 260, 175 245, 175 225 Z' fill='#000000'/>
+    
+    <!-- 2. Main Body & Tail Flukes -->
+    <path d='M 235 275 C 265 200, 360 170, 450 182 C 530 195, 575 265, 515 350 C 460 430, 375 448, 330 500 C 305 528, 325 548, 370 535 C 445 515, 535 440, 565 375 C 570 422, 540 495, 480 550 C 395 625, 280 615, 250 535 C 232 475, 280 410, 315 370 C 340 340, 335 315, 290 315 C 255 315, 235 295, 235 275 Z' fill='#000000'/>
+    
+    <path d='M 70 480 C 135 460, 225 490, 290 532 C 225 568, 160 618, 130 665 C 170 665, 280 650, 380 618 C 480 590, 560 550, 610 500 C 535 572, 430 635, 300 662 C 175 688, 80 652, 70 480 Z' fill='#000000'/>
+  </g>
+  <!-- Typography -->
+  <text x='512' y='770' text-anchor='middle' fill='#000000' font-family='Liberation Sans, Arial, Helvetica, sans-serif' font-size='140' font-weight='900' letter-spacing='14'>ORCA</text>
+  <text x='512' y='870' text-anchor='middle' fill='#000000' font-family='Liberation Sans, Arial, Helvetica, sans-serif' font-size='74' font-weight='900' letter-spacing='22'>EXPRESS</text>
+</svg>
